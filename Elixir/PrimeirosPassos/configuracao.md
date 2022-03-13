@@ -1,4 +1,5 @@
-## Introdução
+# Elixir - Setup
+## Intro
 
 Antes de começarmos é importante trazer que esse artigo faz parte de uma série de outros artigos, nos quais documentarei a minha experiência pessoal com Elixir e meus primeiros passos.
 
