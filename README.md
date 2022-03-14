@@ -26,7 +26,7 @@ I create this repo to organize and search for collabs before publish articles.
 - [Sequelize - A solução para os seus relacionamentos](https://github.com/igorgbr/articles/blob/main/General/Sequelize_%E2%80%94_A_solu%C3%A7%C3%A3o_para_seus_relacionamentos!.md)
 
 ---
-![estrutura](readme.png)
+![estrutura](estrutura.png)
 
 ## Sobre
 O Projeto tem como objetivo tornar mais facil o processo de colaboração e publicação de artigos.
