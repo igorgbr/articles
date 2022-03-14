@@ -63,9 +63,9 @@ clone o repositorio
     git clone git@github.com:igorgbr/articles.git
 ```
 
-Instale a biblioteca
+Instale as bibliotecas
 ```Shell
-    npm install medium-to-markdown
+    npm install
 ```
 
 Substitua a URL na linha 5
@@ -81,16 +81,25 @@ Rode o Script
 Será gerado no caminho escolhido um arquivo de nome igual ao titulo do artigo no formato MD.
 
 
-### Como fazer o deploy para o Dev.to (Beta)
+### Como fazer o deploy para o Dev.to
 [Documentação da API](https://developers.forem.com/api/#section/Authentication)
 
 Instale a biblioteca
 ```Shell
-    npm install axios, prompt-sync 
+    npm install
 ```
 Rode o Script
 ```Shell
     npm start
+```
+Insira seu nome de usuario do dev.to
+```Shell
+    nome de usuario: igorgbr
+```
+
+Insira o ID da organização (Se não for postar na organização pressione "ENTER")
+```Shell
+    ID da organização: 4563
 ```
 
 Insira o nome do arquivo que ira publicar (com a extensão)
@@ -99,14 +108,14 @@ O arquivo deve estar na raiz do projeto (sem caracteres especiais).
     filename: meu_artigo.md
 ```
 
-Insira seu nome de usuario do dev.to
-```Shell
-    nome de usuario: igorgbr
-```
-
 Insira o titulo do seu artigo
 ```Shell
     Titulo do artigo: Meu artigo TOP
+```
+
+Insira o titulo da série (Se não fizer parte de uma série pressione "ENTER")
+```Shell
+    Titulo da série: Sequencia de artigos top
 ```
 
 Insira as HASHTAG'S separadas por espaço (opcional)
