@@ -81,7 +81,8 @@ Rode o Script
 Será gerado no caminho escolhido um arquivo de nome igual ao titulo do artigo no formato MD.
 
 
-### Como fazer o deploy para o Dev.to
+### Como fazer o deploy para o Dev.to (Beta)
+[Documentação da API](https://developers.forem.com/api/#section/Authentication)
 
 Instale a biblioteca
 ```Shell
