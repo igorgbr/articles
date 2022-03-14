@@ -85,7 +85,7 @@ Será gerado no caminho escolhido um arquivo de nome igual ao titulo do artigo n
 
 Instale a biblioteca
 ```Shell
-    npm install axios
+    npm install axios, prompt-sync 
 ```
 Rode o Script
 ```Shell
@@ -93,7 +93,7 @@ Rode o Script
 ```
 
 Insira o nome do arquivo que ira publicar (com a extensão)
-O arquivo deve estar na raiz do projeto.
+O arquivo deve estar na raiz do projeto (sem caracteres especiais).
 ```Shell
     filename: meu_artigo.md
 ```
@@ -108,7 +108,7 @@ Insira o titulo do seu artigo
     Titulo do artigo: Meu artigo TOP
 ```
 
-Insira as HASHTAG'S separadas por virgula (opcional)
+Insira as HASHTAG'S separadas por espaço (opcional)
 ```Shell
-    Tags (separadas por virgula): trybe, elixir
+    Tags (separadas por espaço): trybe elixir iniciante
 ```

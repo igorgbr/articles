@@ -21,6 +21,7 @@
   "homepage": "https://github.com/igorgbr/articles#readme",
   "dependencies": {
     "axios": "^0.26.1",
-    "medium-to-markdown": "0.0.3"
+    "medium-to-markdown": "0.0.3",
+    "prompt-sync": "^4.2.0"
   }
 }
