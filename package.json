@@ -1,0 +1,26 @@
+{
+  "name": "project-articles",
+  "version": "1.0.0",
+  "description": "I create this repo to organize and search for collabs before publish articles.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node deployArticle.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "medium-to-md": "node medium-to-markdown.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorgbr/articles.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorgbr/articles/issues"
+  },
+  "homepage": "https://github.com/igorgbr/articles#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "medium-to-markdown": "0.0.3"
+  }
+}
