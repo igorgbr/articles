@@ -12,7 +12,7 @@ I create this repo to organize and search for collabs before publish articles.
 
 - [Meus primeiros passos no Elixir - Configuração](https://github.com/igorgbr/articles/blob/main/Elixir/PrimeirosPassos/configuracao.md)
 - [Meus primeiros passos no Elixir - Iniciando um projeto com MIX](https://github.com/igorgbr/articles/blob/main/Elixir/PrimeirosPassos/conceitos_iniciais.md)
-- Meus primeiros passos no Elixir - Pattern Matching e Funções Built in
+- [Meus primeiros passos no Elixir - Pattern Matching e Funções Built in](https://github.com/igorgbr/articles/blob/main/Elixir/PrimeirosPassos/pattern_mathing_built_in.md)
 - Meus primeiros passos no Elixir - Phoenix
 
 #### Python
